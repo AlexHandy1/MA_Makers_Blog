@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Alex Handy
+title: Alex Handy - Web Development and Tech Strategy
 description: "Blogging about web development and tech interests"
 analytics: UA-50546869-2
 baseurl: "/solid-jekyll" #important: start with /
