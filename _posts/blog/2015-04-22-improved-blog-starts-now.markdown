@@ -11,6 +11,6 @@ img: post02.jpg
 thumb: thumb02.jpg
 ---
 
-<b>Lets keep it simple</b> and just see how this new blog post shows up
+<b>Here we are</b> first blog in the new and improved blog. More to come...
 
 [hampden]: https://github.com/jekyll/jekyll
