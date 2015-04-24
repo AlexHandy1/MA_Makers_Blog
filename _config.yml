@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Alex Handy - Web Development and Tech Strategy #why is that only hitting the about?
+title: Alex Handy #why is that only hitting the about?
 description: "Blogging about web development and tech interests"
 analytics: UA-50546869-2
 baseurl: "/solid-jekyll" #important: start with /
@@ -50,60 +50,60 @@ tel: +44 13251479
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
     
 # Members information. Shown on About page.
-members:
-  - name: Mark Webber
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Paul Jameson
-    position: Lead Designer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Laura Sommers
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Martin Blunt
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+# members:
+#   - name: Mark Webber
+#     position: CEO
+#     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+#     img: team01.jpg
+#     social:
+#       - title: envelope #use for email address
+#         url: mailto:name@domain.com
+#       - title: twitter
+#         url: http://twitter.com/handle
+#   - name: Paul Jameson
+#     position: Lead Designer
+#     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+#     img: team02.jpg
+#     social:
+#       - title: envelope #use for email address
+#         url: mailto:name@domain.com
+#       - title: twitter
+#         url: http://twitter.com/handle
+#   - name: Laura Sommers
+#     position: Lead Developer
+#     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+#     img: team03.jpg
+#     social:
+#       - title: envelope #use for email address
+#         url: mailto:name@domain.com
+#       - title: twitter
+#         url: http://twitter.com/handle
+#   - name: Martin Blunt
+#     position: Marketing
+#     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+#     img: team04.jpg
+#     social:
+#       - title: envelope #use for email address
+#         url: mailto:name@domain.com
+#       - title: twitter
+#         url: http://twitter.com/handle
     
 # Clients information. Shown on Home and About pages.
-clients:
-  - name: dribbble
-    img: client01.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
+# clients:
+#   - name: dribbble
+#     img: client01.png
+#   - name: Code is Poetry
+#     img: client02.png
+#   - name: Vimeo
+#     img: client03.png
+#   - name: VimeoPro
+#     img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "My site talking about my web development work and technology I'm interested in."
+about: "Talking about learning to code, technology I'm interested in and showcasing my work."
 
 # Testimonial content. Shown on Home and About page. 
-testimonial:
-    message: "I have not failed. I've just found 10,000 ways that won't work."
-    author: Thomas Edison
-    position: Inventor
+# testimonial:
+#     message: "I have not failed. I've just found 10,000 ways that won't work."
+#     author: Thomas Edison
+#     position: Inventor
