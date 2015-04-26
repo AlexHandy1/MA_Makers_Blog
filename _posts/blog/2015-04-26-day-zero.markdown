@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Day 0..."
+title: "Day Zero - April 26th"
 date: 2015-04-26 20:29
 author: Admin
 categories: 
 - blog 
 - Web-Design
 - Development
-img: 
+img: post01.jpg
 thumb: thumb01.jpg
 ---
 
@@ -21,18 +21,21 @@ Over time, I am going to try and jazz this up, but for now, I'll stick to lists.
 ****
 
 What I Learnt
-	- Rspec and the pre-course tutorials were the main focus - starting to understand the benefits of taking a test-first approach and how that ties into my existing step-by-step problem solving approach
-	- More advanced hash mapping techniques where you iterate over a sub-set of key-value pairings to dynamically present much larger datasets >> the Roman Numerals converter on the Makers tutorial
+
+	Rspec and the pre-course tutorials were the main focus - starting to understand the benefits of taking a test-first approach and how that ties into my existing step-by-step problem solving approach
+	More advanced hash mapping techniques where you iterate over a sub-set of key-value pairings to dynamically present much larger datasets >> the Roman Numerals converter on the Makers tutorial
 
 ****
 
 What was difficult
-	- Spent far too long grappling with the challenges of the mathemtical inaccuracies of non-float integers which I eventually managed to figure out with this (.to_f).ceil)
+
+	Spent far too long grappling with the challenges of the mathemtical inaccuracies of non-float integers which I eventually managed to figure out with this (.to_f).ceil)
 
 ****
 
 What's the plan tomorrow
-	- Start Day 1 of the actual course and go from there...
+
+	Start Day 1 of the actual course and go from there...
 
 ****
 
