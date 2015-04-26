@@ -18,6 +18,6 @@ What do I want from this blog? - Build a reference point for important concepts 
 
 I like a good structure so ideally, I want to build a visually cool 2*2 which covers a daily summary of - What learnt? - What was challenging? - What can I change? - What else?
 
-For today I am mainly just excited that I have stuck to trying to figure out these blogging templates and have found a very slick one that I will start building out on the side and transfer over too.
+For today I am mainly just excited that I have stuck to trying to figure out these blogging templates and have found a more advanced one that I will start building out on the side and transfer over too.
 
 [hampden]: https://github.com/jekyll/jekyll

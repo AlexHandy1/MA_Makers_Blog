@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Day 0..."
+date: 2015-04-26 20:29
+author: Admin
+categories: 
+- blog 
+- Web-Design
+- Development
+img: 
+thumb: thumb01.jpg
+---
+
+<b>Last night before the course</b> and I am pretty excited to get going.
+<!--more-->
+The pre-course work has actually been a lot more involved than I expected which is great if not slightly intimidating - the major takeaway for me is that it has confirmed my decision that I really want to do this. Also, it has made me realise some of the difficulties I would have faced had I continued to try and teach myself without the support of a clear structure and, most importantly, lots of other people and teachers to talk to.
+
+Anyway, I'm going to try and stick to a structure to avoid aimlessly rambling and to ensure this is as useful as possible. 
+Over time, I am going to try and jazz this up, but for now, I'll stick to lists. 
+
+****
+
+What I Learnt
+	- Rspec and the pre-course tutorials were the main focus - starting to understand the benefits of taking a test-first approach and how that ties into my existing step-by-step problem solving approach
+	- More advanced hash mapping techniques where you iterate over a sub-set of key-value pairings to dynamically present much larger datasets >> the Roman Numerals converter on the Makers tutorial
+
+****
+
+What was difficult
+	- Spent far too long grappling with the challenges of the mathemtical inaccuracies of non-float integers which I eventually managed to figure out with this (.to_f).ceil)
+
+****
+
+What's the plan tomorrow
+	- Start Day 1 of the actual course and go from there...
+
+****
+
+Code of the day...
+
+So I'm going to cheat as its not from today, but this was a challenge I found the other day on CodeWars.
+JadenString >> capitalises every word in a string to mirror the Twitter style of Jaden Smith.
+
+		"class String
+			def toJadenCase(string)
+				array = string.split(' ')
+				jaden_array = []
+				array.each do |x|
+					jaden_array << x.capitalize
+				end
+				jaden_string = jaden_array.join(' ')
+				return jaden_string
+			end
+		end"
+
+****
+
+
+
+[hampden]: https://github.com/jekyll/jekyll
