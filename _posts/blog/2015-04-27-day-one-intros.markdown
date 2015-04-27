@@ -17,7 +17,7 @@ Given I hadn't had the chance to meet anyone pre-course it was mainly good to pu
 It became pretty clear early on that the main aim of today was to meet everyone and get comfortable with some of the key principles for how the next 12 weeks will be.
 <!--more-->
 
-Still, there were some useful stuff already, enough to keep my fledging structure going... 
+Still, there was some useful stuff already, enough to keep my fledging structure going... 
 
 ****
 
@@ -31,7 +31,7 @@ What I Learnt
 
 What was difficult
 
-	Not wanted to dive straight into more coding and the challenges - being patient and buying into the process
+	Not wanting to dive straight into more coding and the challenges - being patient and buying into the process
 
 ****
 
