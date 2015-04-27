@@ -7,8 +7,8 @@ categories:
 - blog
 - Web-Design
 - Development
-img: post02.jpg
-thumb: thumb02.jpg
+img: post01.jpg
+thumb: thumb01.jpg
 ---
 
 <b>Here we are</b> first blog in the new and improved blog. More to come...

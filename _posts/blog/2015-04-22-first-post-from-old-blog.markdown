@@ -7,8 +7,8 @@ categories:
 - blog
 - Web-Design
 - Development
-img: post03.jpg
-thumb: thumb03.jpg
+img: post01.jpg
+thumb: thumb01.jpg
 ---
 
 <b>So this will be </b> tihe first slightly extended blog entry that might survive the real thing.
