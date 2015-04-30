@@ -16,8 +16,6 @@ thumb: thumb01.jpg
 Today was the first full day at Makers and the difference in pace was clear.
 We got our first set of challenges, first go at pair programming and started with the stand-ups and lecture structure.
 
-<!--more-->
-
 ****
 
 What I Learnt
@@ -55,7 +53,7 @@ Building a loop within a loop based on assessing the varying length of the hash 
    end"
 
 ****
-
+<!--more-->
 
 
 [hampden]: https://github.com/jekyll/jekyll

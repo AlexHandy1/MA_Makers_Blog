@@ -18,8 +18,6 @@ This involves building a basic system in ruby that mimicks the core features of 
 Mainly, its been great to get into the detail of the first project and pairing today has been really enjoyable.
 Starting to understand the process...
 
-<!--more-->
-
 ****
 
 What I Learnt
@@ -49,6 +47,7 @@ Code of the day...
 	That said expect(method).to be_whatever_boolean_method_test_you_fancy in predicate matchers was clever.
 
 ****
+<!--more-->
 
 
 

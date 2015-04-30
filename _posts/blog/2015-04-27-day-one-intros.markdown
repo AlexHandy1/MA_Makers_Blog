@@ -15,7 +15,6 @@ thumb: thumb01.jpg
 
 Given I hadn't had the chance to meet anyone pre-course it was mainly good to put some names to faces. 
 It became pretty clear early on that the main aim of today was to meet everyone and get comfortable with some of the key principles for how the next 12 weeks will be.
-<!--more-->
 
 Still, there was some useful stuff already, enough to keep my fledging structure going... 
 
@@ -54,6 +53,7 @@ Not a huge amount to choose from today, but the below refers back to the hash so
 	end"
 
 ****
+<!--more-->
 
 
 

@@ -12,7 +12,7 @@ thumb: thumb01.jpg
 ---
 
 <b>Last night before the course</b> and I am pretty excited to get going.
-<!--more-->
+
 The pre-course work has actually been a lot more involved than I expected which is great if not slightly intimidating - the major takeaway for me is that it has confirmed my decision that I really want to do this. Also, it has made me realise some of the difficulties I would have faced had I continued to try and teach myself without the support of a clear structure and, most importantly, lots of other people and teachers to talk to.
 
 Anyway, I'm going to try and stick to a structure to avoid aimlessly rambling and to ensure this is as useful as possible. 
@@ -57,6 +57,7 @@ JadenString >> capitalises every word in a string to mirror the Twitter style of
 		end"
 
 ****
+<!--more-->
 
 
 
