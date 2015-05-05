@@ -3,17 +3,16 @@ layout: post
 title: "Day Four - April 30th"
 date: 2015-04-30 19:32
 author: Admin
-categories: 
-- blog 
-- Web-Design
-- Development
+categories:
+- blog
+- Week 1
 img: borisbikes.jpg
 thumb: thumb01.jpg
 ---
 
 <b>Brain Melt</b>
 
-I don't think I have properly experienced such drastic mental exhaustion in one day until this current point. 
+I don't think I have properly experienced such drastic mental exhaustion in one day until this current point.
 Alarmingly, even writing this blog is proving extremely challenging and is about the only thing on my to-do list I feel up to completing.
 Apparently this is a good sign as I have been sufficiently 'stretched', and generally the second day of the project went well, but need to figure out how to avoid such brain explosions in future.
 

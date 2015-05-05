@@ -3,20 +3,19 @@ layout: post
 title: "Day One - April 27th"
 date: 2015-04-27 20:29
 author: Admin
-categories: 
-- blog 
-- Web-Design
-- Development
+categories:
+- blog
+- Week 1
 img: post01.jpg
 thumb: thumb01.jpg
 ---
 
 <b>So day one of the course is done.</b>
 
-Given I hadn't had the chance to meet anyone pre-course it was mainly good to put some names to faces. 
+Given I hadn't had the chance to meet anyone pre-course it was mainly good to put some names to faces.
 It became pretty clear early on that the main aim of today was to meet everyone and get comfortable with some of the key principles for how the next 12 weeks will be.
 
-Still, there was some useful stuff already, enough to keep my fledging structure going... 
+Still, there was some useful stuff already, enough to keep my fledging structure going...
 
 ****
 

@@ -3,10 +3,9 @@ layout: post
 title: "Day Two - April 28th"
 date: 2015-04-28 19:29
 author: Admin
-categories: 
-- blog 
-- Web-Design
-- Development
+categories:
+- blog
+- Week 1
 img: post01.jpg
 thumb: thumb01.jpg
 ---

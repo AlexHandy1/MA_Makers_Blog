@@ -3,10 +3,9 @@ layout: post
 title: "Day Zero - April 26th"
 date: 2015-04-26 20:29
 author: Admin
-categories: 
-- blog 
-- Web-Design
-- Development
+categories:
+- blog
+- Week 1
 img: post01.jpg
 thumb: thumb01.jpg
 ---
@@ -15,8 +14,8 @@ thumb: thumb01.jpg
 
 The pre-course work has actually been a lot more involved than I expected which is great if not slightly intimidating - the major takeaway for me is that it has confirmed my decision that I really want to do this. Also, it has made me realise some of the difficulties I would have faced had I continued to try and teach myself without the support of a clear structure and, most importantly, lots of other people and teachers to talk to.
 
-Anyway, I'm going to try and stick to a structure to avoid aimlessly rambling and to ensure this is as useful as possible. 
-Over time, I am going to try and jazz this up, but for now, I'll stick to lists. 
+Anyway, I'm going to try and stick to a structure to avoid aimlessly rambling and to ensure this is as useful as possible.
+Over time, I am going to try and jazz this up, but for now, I'll stick to lists.
 
 ****
 

@@ -3,17 +3,16 @@ layout: post
 title: "Day Three - April 29th"
 date: 2015-04-29 20:01
 author: Admin
-categories: 
-- blog 
-- Web-Design
-- Development
+categories:
+- blog
+- Week 1
 img: borisbikes.jpg
 thumb: thumb01.jpg
 ---
 
 <b>Boris Begins</b>
 
-So today we got our first proper project - Boris Bikes. 
+So today we got our first proper project - Boris Bikes.
 This involves building a basic system in ruby that mimicks the core features of the Boris Bikes in London (e.g. allow users to take a bike from a docking station).
 Mainly, its been great to get into the detail of the first project and pairing today has been really enjoyable.
 Starting to understand the process...
@@ -43,7 +42,7 @@ What's the plan tomorrow
 
 Code of the day...
 
-	No stand-outs today as it was a lot more structural than coming up with fancy code based solutions. 
+	No stand-outs today as it was a lot more structural than coming up with fancy code based solutions.
 	That said expect(method).to be_whatever_boolean_method_test_you_fancy in predicate matchers was clever.
 
 ****

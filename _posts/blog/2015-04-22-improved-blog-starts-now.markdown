@@ -3,10 +3,8 @@ layout: post
 title:  "Improved Blog starts now"
 date:   2015-04-22 20:38
 author: Admin
-categories: 
+categories:
 - blog
-- Web-Design
-- Development
 img: post01.jpg
 thumb: thumb01.jpg
 ---
