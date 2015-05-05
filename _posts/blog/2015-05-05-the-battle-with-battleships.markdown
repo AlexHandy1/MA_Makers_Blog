@@ -5,7 +5,7 @@ date: 2015-05-05 22:52
 author: Admin
 categories:
 - blog
-- Week 1
+- Week 2
 img: battleships.jpg
 thumb: thumb01.jpg
 ---
