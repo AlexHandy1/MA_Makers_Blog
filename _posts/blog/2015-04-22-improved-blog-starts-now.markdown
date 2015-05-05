@@ -5,6 +5,7 @@ date:   2015-04-22 20:38
 author: Admin
 categories:
 - blog
+- web-design
 img: post01.jpg
 thumb: thumb01.jpg
 ---

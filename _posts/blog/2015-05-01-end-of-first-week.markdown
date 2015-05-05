@@ -5,6 +5,7 @@ date: 2015-05-01 19:32
 author: Admin
 categories:
 - blog
+- web-design
 - Week 1
 img: airport.jpg
 thumb: thumb01.jpg

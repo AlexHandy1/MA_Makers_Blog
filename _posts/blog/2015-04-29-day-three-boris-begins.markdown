@@ -5,6 +5,7 @@ date: 2015-04-29 20:01
 author: Admin
 categories:
 - blog
+- web-design
 - Week 1
 img: borisbikes.jpg
 thumb: thumb01.jpg
