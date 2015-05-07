@@ -44,17 +44,18 @@ Code of the day...
 
 The Player attributes that made all the difference
 
-  class Player
-    include Converter
-    attr_accessor :my_board, :my_shots_board, :attempts, :opponent
+    class Player
+      include Converter
+      attr_accessor :my_board, :my_shots_board, :attempts, :opponent
 
-    	def initialize
-        @my_board = yield
-        @my_shots_board = yield
-        @attempts = []
-        @opponent = nil
-      end
-  end
+      	def initialize
+          @my_board = yield
+          @my_shots_board = yield
+          @attempts = []
+          @opponent = nil
+        end
+
+    end
 
 ****
 <!--more-->
