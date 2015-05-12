@@ -7,7 +7,7 @@ categories:
 - blog
 - web-design
 - Week 3
-img: hello_world.jpg
+img: hello_world.gif
 thumb: thumb01.jpg
 ---
 
@@ -59,6 +59,7 @@ I found the sessions counter on my Twilio app fairly clever. It uses a cookie to
       session["counter"] += 1
       twiml.text
     end
+
 ****
 <!--more-->
 
