@@ -1,0 +1,56 @@
+---
+layout: post
+title: "Day Eleven - May 12th"
+date: 2015-05-13 19:42
+author: Admin
+categories:
+- blog
+- web-design
+- Week 3
+img: tired-rex.jpg
+thumb: thumb01.jpg
+---
+
+###<b>Tired</b>
+
+A little out of nowhere hit a bit of tiredness wall today.
+Haven't been doing crazy late nights but guess the mental exertion is more wearing.
+After confidence gained from yesterday today has felt like a bit of a reality check though have continued to marginally improve the battleships game and actually test it properly.
+
+****
+
+What I Learnt
+
+* Sinata error handling and redirects - was able to set-up params[:error] to manage validation of names and redirect back into original request page and, slightly less elegantly, set a catch-all raise error that handled underlying system error raises and pushed back to a functioning part of the UI
+* Cucumber - Having hated websteps I am now learning how powerful they can be if you take the time to write your feature and scenario tests correctly and map to existing library of pre-made tests. Important that you map your web paths in the paths.rb directory.
+
+****
+
+What was difficult
+
+* Still testing with Cucumber, improved with websteps but the capybara required is not intuitive
+* Speed of development, doing simple things seems to be taking a long time again
+
+****
+
+What's the plan tomorrow
+
+* Quick refresh of progress today and then want to push on to more sophisticated Version 2 AND make it look prettier
+
+****
+
+Code of the day...
+
+Boring but the error redirection using a param was probably one of the better insights of the day.
+
+    if @name.empty?
+      redirect '/game/new?error=name'
+    else
+      erb :game
+    end
+
+****
+<!--more-->
+
+
+[hampden]: https://github.com/jekyll/jekyll
