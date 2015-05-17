@@ -5,11 +5,11 @@ date:   2015-05-17 21:10
 author: Alex Handy
 categories:
 - project
-img: RPS_v2.jpg
+img: RPS.jpg
 thumb: thumb02.jpg
 carousel:
 - RPS_Welcome_SS.png
-- RPS_Game_page_SS.png
+- RPS_Game_page_SS.jpg
 client: Week 3 Makers Academy
 website:
 ---
@@ -22,6 +22,7 @@ The Makers Academy Marketing Array ( **MAMA** ) have asked us to provide a game 
 
 Your task is to provide a _Rock, Paper, Scissors_ game for them so they can play on the web with the following user stories:
 
+```sh
 As a marketeer
 So that I can see my name in lights
 I would like to register my name before playing an online game
@@ -29,6 +30,7 @@ I would like to register my name before playing an online game
 As a marketeer
 So that I can enjoy myself away from the daily grind
 I would like to be able to play rock/paper/scissors
+```
 
 Checklist
 ----
