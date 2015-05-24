@@ -11,7 +11,7 @@ img: Minimalitter-chitter.png
 thumb: thumb01.jpg
 ---
 
-###<b>Minmalitter Chitter</b>
+###<b>Minimalitter Chitter</b>
 
 Given the absence of blog entries it is perhaps little surprise that Week 4 was quite a tough week and additionally, that with various breakages, bugs etc (still including this blog) I had briefly lost the enthusiasm to keep hacking away on here on top of everything else.
 That said, I have been revitalised by channelling my angst and inner struggle into our weekend challenge of creating a Twitter Clone.
@@ -38,7 +38,7 @@ What was difficult
 
 What's the plan tomorrow
 
-* Its a bank holiday, but I will beginning the task of learning a new language - Javascript.
+* Its a bank holiday, but I will be beginning the task of learning a new language - Javascript.
 
 ****
 
@@ -65,6 +65,7 @@ I love a good hidden form for my peeps and replies.
       <%end%>
      <%end%>
     </div>
+
 ****
 <!--more-->
 
