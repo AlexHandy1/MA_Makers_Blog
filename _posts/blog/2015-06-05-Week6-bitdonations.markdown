@@ -17,7 +17,8 @@ Its the end of lab-week, a sort of reading week that marks the halfway point of 
 I decided to have a go at building my own mini-project that combined two areas of interest - emerging market entrepreneurship (particularly in East Africa) and cryptocurrencies based around Blockchain technologies.
 The result was a prototype for a very basic platform that could facilitate direct P2P donations between donors and young entrepreneurs - think Kiva for micro-donations but with Bitcoin.
 I have written more about tech and use cases on my Github so if interested check that out below.
-![Github README](https://github.com/AlexHandy1/BitDonations-labweek)
+
+[Github README](https://github.com/AlexHandy1/BitDonations-labweek)
 
 ****
 
@@ -44,10 +45,8 @@ Code of the day...
 
 The Bitcoin transaction flow
 
-  ```
     #ACCESS PREVIOUSLY GENERATED ENTREPRENEUR BLOCKCHAIN WALLET FROM DATABASE
     @entrepreneur = Entrepreneur.get(@ent_id)
-
 
     #ACCESS DONOR WALLET FROM API AND SEND STATED BITCOIN TO ENTREPRENEUR
     @donor_wallet = Blockchain::Wallet.new(@donor_wallet_id, @donor_wallet_password)
@@ -56,7 +55,6 @@ The Bitcoin transaction flow
     #STORE TRANSACTION IN DATABASE
     @transaction = Transaction.create(amount: @satoshis, entrepreneur_id: @ent_id, donor_id: current_donor.id)
 
-  ```
 ****
 <!--more-->
 
