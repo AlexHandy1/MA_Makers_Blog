@@ -54,6 +54,7 @@ Code of the week...
 
 The relatively hacky instragam API call
 
+```
   namespace :instagram_api do
     desc "TODO"
     task get_users: :environment do
@@ -81,7 +82,7 @@ The relatively hacky instragam API call
           end
         end
     end
-
+```
 ****
 <!--more-->
 
