@@ -19,6 +19,7 @@ So Week 10 and final projects have come and gone meaning next week is the last w
 
 Sadly, none of the ideas I pitched for final projects made it through to the final shortlist but nonetheless I am pretty pleased with where I have ended up.
 My team is building a crowdsourced storytelling video app - similar to Vine but with longer videos and based more about topics/ events rather than individual personalities/ users. We are building a bunch of cool ways to capture and stitch together User Generated Content to better display the visual narrative around events.
+
 Things seem to have gone relatively well so far, we are building up the product iteratively, there are tests and it is even starting to look vaguely presentable across both web and mobile.
 Will be interesting to see how much further we can progress the functionality this week given all the extra activities around preparing for final project presentations (e.g. videos etc) and an early feature freeze on the Wednesday.
 
