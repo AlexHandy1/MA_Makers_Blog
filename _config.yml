@@ -4,7 +4,7 @@
 title: Alex Handy
 description: "Blogging about web development and tech interests"
 analytics: UA-50546869-2
-baseurl: "/MA_Makers_Blog" #important: start with /
+baseurl: "/solid-jekyll" #important: start with /
 url: "http://st4ple.github.io"
 
 # Build settings
